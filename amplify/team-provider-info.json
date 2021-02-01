@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fisitax-dev-123855-authRole",
+      "UnauthRoleArn": "arn:aws:iam::551126506124:role/amplify-fisitax-dev-123855-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::551126506124:role/amplify-fisitax-dev-123855-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-fisitax-dev-123855-deployment",
+      "UnauthRoleName": "amplify-fisitax-dev-123855-unauthRole",
+      "StackName": "amplify-fisitax-dev-123855",
+      "StackId": "arn:aws:cloudformation:eu-west-1:551126506124:stack/amplify-fisitax-dev-123855/740c4e00-648a-11eb-a6f0-0a70a2067ff5",
+      "AmplifyAppId": "d23031netp35lw"
+    }
+  }
+}

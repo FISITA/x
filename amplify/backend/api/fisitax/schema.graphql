@@ -1,0 +1,5 @@
+type Salutations @model {
+  id: ID!
+  name: String!
+  description: String
+}
